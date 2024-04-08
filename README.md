@@ -7,7 +7,9 @@ still some application features not fully implemented such as the Location Feaut
 Why you used the technologies you used,
 Some of the challenges you faced and features you hope to implement in the future.
 
+<p align="center">
 ![](https://github.com/LCRazo/travel-app-SeekAdventure/blob/main/seekAdventureGif.gif)
+</p>
 
 ## Table of Contents
 
