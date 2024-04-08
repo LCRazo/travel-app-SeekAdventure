@@ -19,10 +19,10 @@ Some of the challenges you faced and features you hope to implement in the futur
 1. Clone the repository
 
 
-# Features
+## Features
 
 
-# Credits
+## Credits
 
 
 
